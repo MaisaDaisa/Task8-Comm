@@ -16,4 +16,4 @@ if ( strPercent < 10 && strSum < 1000 ) {
     document.write("კაი ანაბარია")
 }
 
-document.write("\n" + finalAmount)
+document.write("\n- შენი თანხა იქნება: " + finalAmount)
